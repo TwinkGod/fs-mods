@@ -537,5 +537,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:43:45+00:00"
+    },
+    {
+        "id": "4684d80d5edbb48f594bb651ce990fef",
+        "title": "Kinder Eisenbahn",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184426-e4dc59930ccd-mod-Kindereisenbahn_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184430-4ab77b879760-img-image_2026-05-16_204404918.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:44:31+00:00"
     }
 ]
