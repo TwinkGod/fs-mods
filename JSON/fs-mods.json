@@ -284,5 +284,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:55:56+00:00"
+    },
+    {
+        "id": "e6b935c939b4859ce12a3f82f0ef8860",
+        "title": "Crazy Mouse",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135638-1e5df1512f0f-mod-FS22_manege_crazymouse.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135642-fe61d81577fb-img-image_2026-05-16_155605889.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:56:43+00:00"
     }
 ]
