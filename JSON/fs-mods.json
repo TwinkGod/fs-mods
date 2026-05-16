@@ -526,5 +526,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:41:46+00:00"
+    },
+    {
+        "id": "739ee6d0401a2787548abf6c8c514628",
+        "title": "Jumper By Leon",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184335-6abfd431e4f5-mod-_er_ZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184344-b3847663070d-img-image_2026-05-16_204244281.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:43:45+00:00"
     }
 ]
