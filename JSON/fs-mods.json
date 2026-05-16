@@ -405,5 +405,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:18:28+00:00"
+    },
+    {
+        "id": "652e99af996b3ca29ef05379d45bc190",
+        "title": "Freak Circus",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141959-01e513c59e10-mod-FS22_manege_freakcircus.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142009-cd5cb8a47ca7-img-image_2026-05-16_161845360.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:20:09+00:00"
     }
 ]
