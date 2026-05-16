@@ -878,5 +878,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:24:49+00:00"
+    },
+    {
+        "id": "fb0e7002f94d4093794d1b34a56bcda7",
+        "title": "Star Flyer",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-192518-5df5626b64d1-mod-KIRMES_FS22_Starflyer_UNZIP___40_2__41_.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-192521-53daf5d45c30-img-image_2026-05-16_212504222.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:25:22+00:00"
     }
 ]
