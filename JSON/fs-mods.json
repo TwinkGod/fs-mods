@@ -559,5 +559,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:45:11+00:00"
+    },
+    {
+        "id": "cebfa656548c7322f01900547c048e11",
+        "title": "La Boule (Bungee)",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184545-b81e55c02691-mod-FS22_Boule.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184547-0af675f26ab1-img-image_2026-05-16_204535105.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:45:48+00:00"
     }
 ]
