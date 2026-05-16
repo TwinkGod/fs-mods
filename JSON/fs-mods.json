@@ -20,5 +20,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:00:51+00:00"
+    },
+    {
+        "id": "3a238d1af613ea4414fa1e2ff57950a6",
+        "title": "AeroSpace",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130222-c0b25fb3661f-mod-Fs22_AeroSpace.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130241-be3957da609c-img-image_2026-05-16_150101402.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:02:42+00:00"
     }
 ]
