@@ -581,5 +581,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:46:56+00:00"
+    },
+    {
+        "id": "83617af61859ac820730c858a391d725",
+        "title": "La Pomme",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184721-7d039e7c37a3-mod-FS22_LaPomme.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184724-6ca9092520ba-img-image_2026-05-16_204705154.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:47:25+00:00"
     }
 ]
