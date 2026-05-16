@@ -1,31 +1,5 @@
 [
     {
-        "id": "auto-or-manual-id",
-        "title": "Extreme top-scan",
-        "version": "FS19",
-        "image": "assets/uploads/fs19/extremetopscan.png",
-        "download": "https://sharemods.com/0k5ezob3ybks/extreme_top_scan.rar.html",
-        "category": "rides",
-        "requires": "Simple Ic",
-        "broken": false,
-        "early_access": false,
-        "added_at": "2026-04-29 06:21:29",
-        "updated_at": "2026-04-29 06:21:29"
-    },
-    {
-        "id": "auto-or-manual-id",
-        "title": "Top Spin Fresh Fleur V2",
-        "version": "FS22",
-        "image": "assets/uploads/topspin.png",
-        "download": "/mods/FS22/3484f5be512d2ef5b33a11a2705532f2.zip",
-        "category": "rides",
-        "requires": "ManualAttach",
-        "broken": false,
-        "early_access": false,
-        "added_at": "2026-04-29 06:09:02",
-        "updated_at": "2026-04-29 06:09:02"
-    },
-    {
         "id": "f27a2e5e4055d8dfb6dd9f3a2755fb28",
         "title": "Extazy Heroes",
         "version": "FS22",
