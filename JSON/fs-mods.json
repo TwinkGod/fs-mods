@@ -119,5 +119,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:15:07+00:00"
+    },
+    {
+        "id": "2dcd700fb792ba354a0130ea32eb522b",
+        "title": "Coca Cola stand",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-133312-eddae41df3b1-mod-FS22_Bierwagen_rondelll_colaa.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-133319-b799e45188d8-img-image_2026-05-16_153246516.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:33:19+00:00"
     }
 ]
