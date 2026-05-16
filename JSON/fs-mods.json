@@ -449,5 +449,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:23:27+00:00"
+    },
+    {
+        "id": "5f0ffb761688b3c75ad648c94df3f833",
+        "title": "Graviton",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142414-2524c34c49ea-mod-FS22_Gravitronnew.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142418-f9ea2e3f728f-img-image_2026-05-16_162357253.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:24:18+00:00"
     }
 ]
