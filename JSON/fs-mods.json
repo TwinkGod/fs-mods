@@ -416,5 +416,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:20:09+00:00"
+    },
+    {
+        "id": "6bb9d97da3dee10798a47b9566264dfa",
+        "title": "XXL Frietkraam",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142046-a579373e4f4d-mod-FS22_Xxl_Frietkraam.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142056-c0c8287e0744-img-image_2026-05-16_162025956.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:20:58+00:00"
     }
 ]
