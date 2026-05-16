@@ -460,5 +460,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:24:18+00:00"
+    },
+    {
+        "id": "cc5e19c2b132b426423a26edd7a7177d",
+        "title": "Happy Sailor",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-183119-d3c49347900f-mod-FS22_HappySailor_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-183126-545bc5bcbc5d-img-image_2026-05-16_203046648.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:31:27+00:00"
     }
 ]
