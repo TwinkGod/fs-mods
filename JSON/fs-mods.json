@@ -724,5 +724,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:58:45+00:00"
+    },
+    {
+        "id": "422ed443b73201718669806f140fb12f",
+        "title": "Glucks Prinz",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185916-f5dac229fd82-mod-FS22_Glucks_Prinz.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185920-43c3710c2dab-img-image_2026-05-16_205849322.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:59:20+00:00"
     }
 ]
