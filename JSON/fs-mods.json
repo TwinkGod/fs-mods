@@ -130,5 +130,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:33:19+00:00"
+    },
+    {
+        "id": "65b60c07be84041902c2e2aa31ea32f5",
+        "title": "Blackzone",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-133412-288add481b11-mod-FS22_blackzone_unzip.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-133419-58a9fd877faf-img-image_2026-05-16_153346128.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:34:20+00:00"
     }
 ]
