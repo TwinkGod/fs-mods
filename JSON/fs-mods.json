@@ -86,5 +86,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:09:17+00:00"
+    },
+    {
+        "id": "129397494d2d6eb091fbc131e8a05c35",
+        "title": "Aviator",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-131119-815a81226d44-mod-FS22_aviator_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-131136-ebdc5e7025f8-img-image_2026-05-16_150953977.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:11:37+00:00"
     }
 ]
