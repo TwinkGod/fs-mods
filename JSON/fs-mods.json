@@ -669,5 +669,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:54:11+00:00"
+    },
+    {
+        "id": "f780cfe4236b16338e53abbe47c5e05f",
+        "title": "Ocean King",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185438-0955f9d2bce9-mod-FS22_manege_ocean_king.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185440-5c6fa4a53744-img-image_2026-05-16_205433582.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:54:41+00:00"
     }
 ]
