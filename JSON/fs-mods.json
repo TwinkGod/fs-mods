@@ -647,5 +647,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:52:20+00:00"
+    },
+    {
+        "id": "b83db684a85ccb5c490edf7626c4f033",
+        "title": "MegaRanaXXL",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185300-17721998917f-mod-FS22_MegaRanaXXL.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185306-ccc8457cdca9-img-image_2026-05-16_205226550.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:53:06+00:00"
     }
 ]
