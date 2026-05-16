@@ -306,5 +306,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:59:12+00:00"
+    },
+    {
+        "id": "ab4caa9373f41e4cafa441d2c31a8635",
+        "title": "Deepzone",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-140009-01b5d96f548a-mod-Deepzone_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-140022-896fb781100e-img-image_2026-05-16_155919621.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:00:23+00:00"
     }
 ]
