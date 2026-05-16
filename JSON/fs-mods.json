@@ -350,5 +350,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:02:42+00:00"
+    },
+    {
+        "id": "b27bfb75b87fdc591ce0bb414e3ad64a",
+        "title": "Enterprise",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-140451-11a62783fe52-mod-FS22_Enterprise_verlop_NEU.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-140501-f3010585020d-img-image_2026-05-16_160304769.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:05:02+00:00"
     }
 ]
