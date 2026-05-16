@@ -273,5 +273,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:54:32+00:00"
+    },
+    {
+        "id": "771dfda4117a48443a08b291eb72f9b2",
+        "title": "Crystal City",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135551-33177812acb0-mod-Crystalcity.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135556-0fd094459b2f-img-image_2026-05-16_155528569.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:55:56+00:00"
     }
 ]
