@@ -438,5 +438,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:21:47+00:00"
+    },
+    {
+        "id": "5c5eac9343b86ab144e5f6a1f090c2f0",
+        "title": "Grande Roue",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142318-5ca88c35f5d4-mod-FS22_manege_grande_roue_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-142327-512204a137ff-img-image_2026-05-16_162155674.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:23:27+00:00"
     }
 ]
