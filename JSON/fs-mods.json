@@ -53,5 +53,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:06:33+00:00"
+    },
+    {
+        "id": "b4a2fbc82e06f99d71a21fb4dc22e066",
+        "title": "Aqua Blaster",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130657-35fe881414e0-mod-FS22_Aqua_blaster.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130659-a8cb6afcb3c9-img-image_2026-05-16_150650803.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:07:00+00:00"
     }
 ]
