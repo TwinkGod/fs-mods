@@ -1032,5 +1032,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:43:42+00:00"
+    },
+    {
+        "id": "1cc043a0833173a9549cc58e0a263e4e",
+        "title": "[MAP] Un Coin Du Nord",
+        "version": "FS22",
+        "category": "Others",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_Un_Coin_Du_Nord_Funfair.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-195355-dc7352f413ff-img-image_2026-05-16_214436356.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:53:55+00:00"
     }
 ]
