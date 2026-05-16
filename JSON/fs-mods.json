@@ -1098,5 +1098,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:55:57+00:00"
+    },
+    {
+        "id": "365cbc0899a0f5557605a1f7c5ca4108",
+        "title": "Toilet Trailer",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_Toilettenwagen_TG.1.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-195622-eb0a11ca1d97-img-image_2026-05-16_215609610.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:56:23+00:00"
     }
 ]
