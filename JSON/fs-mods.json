@@ -207,5 +207,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:48:57+00:00"
+    },
+    {
+        "id": "27d916f8ac7e34617a4b88097d8ae60d",
+        "title": "Cascade Pusher",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-134918-f27b56d731fe-mod-KIRMES_FS22_Chaos_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-134919-9b95caf4b11e-img-image_2026-05-16_154912443.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:49:19+00:00"
     }
 ]
