@@ -1010,5 +1010,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:41:38+00:00"
+    },
+    {
+        "id": "1ca834663aa5caa7daf9f9a443fb0db1",
+        "title": "Gluewein Pyramid",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-194243-b4e6c7c11bcb-mod-FS22_Gluehweinpyramide_TG.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-194252-6e91f55435ba-img-image_2026-05-16_214143204.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:42:52+00:00"
     }
 ]
