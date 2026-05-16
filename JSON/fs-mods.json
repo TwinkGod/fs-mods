@@ -768,5 +768,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:03:53+00:00"
+    },
+    {
+        "id": "3b1e64183df4728cd6979b7cc8feecec",
+        "title": "Ring Throwing",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-190428-1797de5da21d-mod-FS22_ringe_werfen1.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-190432-0463f415a5bd-img-image_2026-05-16_210408009.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:04:32+00:00"
     }
 ]
