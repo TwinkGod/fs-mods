@@ -152,5 +152,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:35:05+00:00"
+    },
+    {
+        "id": "3c90ce4e1b7b47590c3882a103f73cc4",
+        "title": "Brasseri",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-133541-059d5c81e0dd-mod-BRASSERI_Unzip.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-133601-dad63e483eeb-img-image_2026-05-16_153514639.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:36:02+00:00"
     }
 ]
