@@ -295,5 +295,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:56:43+00:00"
+    },
+    {
+        "id": "8315abcc44ed2a7a1de5341e76401410",
+        "title": "Dancing Fly",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135908-404cafa4efb0-mod-FS22_dancinGfly.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135912-fd60a5656efc-img-image_2026-05-16_155858466.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:59:12+00:00"
     }
 ]
