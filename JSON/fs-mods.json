@@ -229,5 +229,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:49:36+00:00"
+    },
+    {
+        "id": "88d21c1c39eee69851f8e81177c22c05",
+        "title": "Commander",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135143-057fdcbf8ee2-mod-FS22_Commander.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-135145-e65cbbe286ba-img-image_2026-05-16_155133997.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:51:46+00:00"
     }
 ]
