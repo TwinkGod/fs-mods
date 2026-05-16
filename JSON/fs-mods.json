@@ -504,5 +504,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:36:18+00:00"
+    },
+    {
+        "id": "48fcaaec4b65be294b5d60ba8749b11a",
+        "title": "Incas Funhouse",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184030-f4a879f22cfd-mod-FS22_manege_incas_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-184034-8a944ee1038d-img-image_2026-05-16_203938514.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:40:35+00:00"
     }
 ]
