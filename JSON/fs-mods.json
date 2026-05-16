@@ -658,5 +658,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:53:06+00:00"
+    },
+    {
+        "id": "6ed1e8694540a156f87fc4298f4b8e4f",
+        "title": "Musik Express",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185402-f13f8643b884-mod-FS22_manege_musik_express.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185410-0e1257afd3eb-img-image_2026-05-16_205316802.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:54:11+00:00"
     }
 ]
