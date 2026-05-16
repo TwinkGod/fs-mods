@@ -218,5 +218,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:49:19+00:00"
+    },
+    {
+        "id": "63f53d9be07b0d6eca3045ea733d98b0",
+        "title": "Chaos",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-134934-6c4d62235a0a-mod-KIRMES_FS22_Chaos_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-134936-db641afc521b-img-image_2026-05-16_154932737.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:49:36+00:00"
     }
 ]
