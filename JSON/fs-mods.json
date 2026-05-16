@@ -625,5 +625,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:50:29+00:00"
+    },
+    {
+        "id": "cf0a79bf5d4891ebdbb2d900584f34b6",
+        "title": "Maxximum",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185058-a2e5c47de8fc-mod-Maxximum_Unzip.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185102-e2705b4def26-img-image_2026-05-16_205035465.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:51:03+00:00"
     }
 ]
