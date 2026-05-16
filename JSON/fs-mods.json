@@ -471,5 +471,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:31:27+00:00"
+    },
+    {
+        "id": "6f0abd245d00b97c6f024cd49a427f48",
+        "title": "High Speed Booster",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-183305-36ea72777f3c-mod-BoosterHighSpeed_Unzip.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-183310-3356e2ccb4b8-img-image_2026-05-16_203245867.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:33:11+00:00"
     }
 ]
