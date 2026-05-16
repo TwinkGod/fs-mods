@@ -339,5 +339,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:01:54+00:00"
+    },
+    {
+        "id": "42bfceee24aada4c2df3afe1a1617bb7",
+        "title": "Ed Toilet",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-140239-69c8d1e71fbf-mod-FS22_EdToilet.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-140242-704d24c3a5bf-img-image_2026-05-16_160225766.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:02:42+00:00"
     }
 ]
