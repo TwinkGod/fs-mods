@@ -4,7 +4,7 @@
         "title": "Konga",
         "download": "https://github.com/TwinkGod/fs-mods/releases/download/mods/Konga_Setup.exe",
         "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/1778932335-img-Konga3dmrs.png",
-        "early_access": false,
+        "early_access": true,
         "broken": false,
         "added_at": "2026-05-16T11:52:16+00:00"
     }
