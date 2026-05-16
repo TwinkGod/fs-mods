@@ -31,5 +31,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:02:42+00:00"
+    },
+    {
+        "id": "e5eac81ad0dad00d0acd7870e24ce606",
+        "title": "Air One Max",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130354-dcbb4521f284-mod-FS22_AironeMaxx_ZEModding_Unzip.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130400-d7c182bed328-img-image_2026-05-16_150258117.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:04:01+00:00"
     }
 ]
