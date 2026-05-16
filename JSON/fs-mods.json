@@ -636,5 +636,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:51:03+00:00"
+    },
+    {
+        "id": "ebf09382ae7c30b82f20d2a57a0042f9",
+        "title": "Mini Miami",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185208-fee699e478fd-mod-FS22_Mini_miami.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185219-586382db04aa-img-image_2026-05-16_205138243.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:52:20+00:00"
     }
 ]
