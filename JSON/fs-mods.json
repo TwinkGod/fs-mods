@@ -845,5 +845,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:10:13+00:00"
+    },
+    {
+        "id": "ffa8c50e9d91b712558ec1a492bd4e92",
+        "title": "Sound Machine",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-191208-80eb326d4369-mod-Trailer_Soundmachine_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-191229-2a6c8bc96e9d-img-image_2026-05-16_211036112.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:12:30+00:00"
     }
 ]
