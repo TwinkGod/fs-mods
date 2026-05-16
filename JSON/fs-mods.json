@@ -383,5 +383,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:16:17+00:00"
+    },
+    {
+        "id": "ff8d55f845fc9a088d5a88d6da66098c",
+        "title": "Extazy Jump",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141705-03253f643222-mod-FS22_extazy__UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141709-b5c110fe3cad-img-image_2026-05-16_161631747.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:17:12+00:00"
     }
 ]
