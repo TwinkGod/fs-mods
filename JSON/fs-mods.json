@@ -1076,5 +1076,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:55:07+00:00"
+    },
+    {
+        "id": "f44f8681c6ebf5c339b78558f15aa538",
+        "title": "No Limit",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_manege_no_limit_ze45.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-195528-eeaebee9774f-img-image_2026-05-16_215526948.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:55:28+00:00"
     }
 ]
