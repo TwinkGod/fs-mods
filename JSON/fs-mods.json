@@ -75,5 +75,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T13:08:13+00:00"
+    },
+    {
+        "id": "f5c36beac3fb6599faac0d4f1d006fc1",
+        "title": "Avengers",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130915-ac6c9803b845-mod-FS22_manege_avengers.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-130916-34a1c467de21-img-image_2026-05-16_150841334.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T13:09:17+00:00"
     }
 ]
