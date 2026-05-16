@@ -911,5 +911,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:26:49+00:00"
+    },
+    {
+        "id": "961ff01f71dda629465a230ce5e308a0",
+        "title": "Toboggan Geant",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-192822-c194262f907a-mod-FS22_manege_toboggan_geant_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-192825-b2850f8ad120-img-image_2026-05-16_212759516.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:28:26+00:00"
     }
 ]
