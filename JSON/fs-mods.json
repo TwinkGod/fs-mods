@@ -680,5 +680,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T18:54:41+00:00"
+    },
+    {
+        "id": "44bc56890373f9766861479a6e13908c",
+        "title": "Photostudio",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185530-6f95e9478ec3-mod-FS22_Photostudio.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-185531-ba97931780ab-img-image_2026-05-16_205528664.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T18:55:31+00:00"
     }
 ]
