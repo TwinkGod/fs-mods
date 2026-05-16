@@ -372,5 +372,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:06:32+00:00"
+    },
+    {
+        "id": "4a37ed8b7e0ca7845dd6b4d237d1af3f",
+        "title": "Evolution",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141604-616c18b55901-mod-FS22_Evolution_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141616-ff1c848e6dd1-img-image_2026-05-16_161505988.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:16:17+00:00"
     }
 ]
