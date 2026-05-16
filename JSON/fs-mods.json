@@ -394,5 +394,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T14:17:12+00:00"
+    },
+    {
+        "id": "ef1ea9d23b94d59dcfb3ae999d96c373",
+        "title": "Flipper",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141823-7f4b1b2ed17d-mod-FS22_FlipperV22.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-141828-a7c90b0bb64c-img-image_2026-05-16_161729702.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T14:18:28+00:00"
     }
 ]
