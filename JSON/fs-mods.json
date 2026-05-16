@@ -988,5 +988,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-16T19:40:18+00:00"
+    },
+    {
+        "id": "0fc7730118a69331a481750919f501f4",
+        "title": "Xmas Breakdance",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-194058-8b78c05e656d-mod-FS22_BDH_Chrismas.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260516-194104-90d7e489bef0-img-image_2026-05-16_214025586.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-16T19:41:05+00:00"
     }
 ]
