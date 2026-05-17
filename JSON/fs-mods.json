@@ -1241,5 +1241,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:03:40+00:00"
+    },
+    {
+        "id": "5546a02b86b8aded3ab581dececa0abb",
+        "title": "Freakout",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090407-dd4f5f9add48-mod-freak_out.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090411-6c641d7a6af9-img-image_2026-05-17_110354446.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:04:11+00:00"
     }
 ]
