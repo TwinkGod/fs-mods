@@ -1604,5 +1604,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:45:57+00:00"
+    },
+    {
+        "id": "cfd61b6cde825d61fe49c749c7849988",
+        "title": "SimpleIC",
+        "version": "FS22",
+        "category": "Addons",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-094618-42fdf80f16de-mod-FS22_simpleIC.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-094618-11636c24a72d-img-image_2026-05-17_114605171.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:46:19+00:00"
     }
 ]
