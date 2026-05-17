@@ -1186,5 +1186,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T08:57:12+00:00"
+    },
+    {
+        "id": "364b5e8652ad15420261d94dafc6a081",
+        "title": "Corsair",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-085759-6cb0fd8acad9-mod-FS19_Corsair_Unzip.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-085807-88b2afaf28ef-img-image_2026-05-17_105731204.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T08:58:08+00:00"
     }
 ]
