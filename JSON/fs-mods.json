@@ -1450,5 +1450,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:27:24+00:00"
+    },
+    {
+        "id": "616abb1c06fea227c8025001b78306bb",
+        "title": "Shakerdance",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092756-d2eef94d8962-mod-KIRMES_FS19_ShakerDance_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092800-c34b23cf680a-img-image_2026-05-17_112733731.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:28:01+00:00"
     }
 ]
