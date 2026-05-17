@@ -1230,5 +1230,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:02:24+00:00"
+    },
+    {
+        "id": "d31affb675c957fc3992ac05215de841",
+        "title": "Flipper",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090333-8a4b0fa40d28-mod-FS19_manege_flipper.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090339-103d8ba8435f-img-image_2026-05-17_110301060.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:03:40+00:00"
     }
 ]
