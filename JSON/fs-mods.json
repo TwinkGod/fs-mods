@@ -1362,5 +1362,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:15:13+00:00"
+    },
+    {
+        "id": "3d5534b826c04f949b4ba2f28f167e17",
+        "title": "Nini",
+        "version": "FS19",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-091536-0106f11acc6e-mod-FS19_Nini.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-091538-567870f17add-img-image_2026-05-17_111523365.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:15:38+00:00"
     }
 ]
