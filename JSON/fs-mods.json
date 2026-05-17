@@ -1384,5 +1384,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:18:04+00:00"
+    },
+    {
+        "id": "022ee3c63f907bc8b00013f35aeb6521",
+        "title": "Rock And Roll",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092005-0f9582fc38b2-mod-rock_n_roll.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092011-984ac819751c-img-image_2026-05-17_111918595.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:20:11+00:00"
     }
 ]
