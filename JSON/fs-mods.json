@@ -1329,5 +1329,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:10:37+00:00"
+    },
+    {
+        "id": "b5ea2918fd20c967a2fac93e1d27b91d",
+        "title": "Mini Miami",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-091315-e48c7658a507-mod-FS19_Mini_miami.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-091332-f72c322e7d0c-img-image_2026-05-17_111047497.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:13:32+00:00"
     }
 ]
