@@ -1527,5 +1527,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:34:12+00:00"
+    },
+    {
+        "id": "7c6e28e05b98751e20d76e605d5ba04e",
+        "title": "European Skooter",
+        "version": "FS25",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093451-25806bcd5a11-mod-FS25_EuropeenSkooter.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093455-543fd164de3e-img-image_2026-05-17_113429445.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:34:55+00:00"
     }
 ]
