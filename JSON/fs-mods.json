@@ -1505,5 +1505,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:32:35+00:00"
+    },
+    {
+        "id": "a82831b3ab08797e217fcf4b626390bb",
+        "title": "Burger Stall",
+        "version": "FS25",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093302-7bd6e756c19e-mod-FS25_Burger.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093306-71a0df881b68-img-image_2026-05-17_113242143.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:33:06+00:00"
     }
 ]
