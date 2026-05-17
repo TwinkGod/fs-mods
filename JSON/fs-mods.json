@@ -1428,5 +1428,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:24:48+00:00"
+    },
+    {
+        "id": "a423548d34c7592118c60923e29c6dc0",
+        "title": "Turbine",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092638-18787367d882-mod-FS19_Trampoline.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092642-3cfb1c50311f-img-image_2026-05-17_112627448.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:26:42+00:00"
     }
 ]
