@@ -1582,5 +1582,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:40:27+00:00"
+    },
+    {
+        "id": "23c21c799f2d31135754f4dbe4b8ab62",
+        "title": "InteractiveControl",
+        "version": "FS22",
+        "category": "Addons",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-094517-523655da58b6-mod-FS22_interactiveControl.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-094517-776b247f513a-img-image_2026-05-17_114509508.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:45:18+00:00"
     }
 ]
