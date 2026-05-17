@@ -1681,5 +1681,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:49:24+00:00"
+    },
+    {
+        "id": "4d94193ba74b96f960afc6647fdaaa26",
+        "title": "test submission",
+        "version": "FS25",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/submission-1-20260517-184452-FS25_simpleIC.zip",
+        "image": "",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T18:44:53+00:00"
     }
 ]
