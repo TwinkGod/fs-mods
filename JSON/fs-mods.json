@@ -1538,5 +1538,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:34:55+00:00"
+    },
+    {
+        "id": "8574cf09a53e78ec20560b8cb5a7e754",
+        "title": "Star Flyer",
+        "version": "FS25",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093514-2e938b6e64eb-mod-FS25_StarFlycver.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093516-2de44b6e514b-img-image_2026-05-17_113506306.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:35:17+00:00"
     }
 ]
