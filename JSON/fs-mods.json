@@ -1307,5 +1307,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:08:56+00:00"
+    },
+    {
+        "id": "f0d7921a00efaa0d4b41b5ead37e30ca",
+        "title": "Luna Park",
+        "version": "FS19",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090927-6fc4e5cba95e-mod-fs19_luna_park_v1_0.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090931-67a4dc905a0e-img-image_2026-05-17_110904658.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:09:32+00:00"
     }
 ]
