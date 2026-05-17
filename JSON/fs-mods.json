@@ -1252,5 +1252,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:04:11+00:00"
+    },
+    {
+        "id": "30e8c05a177b93f10fe7dc65a7be0d0e",
+        "title": "Golden Casino",
+        "version": "FS19",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090531-6246045857c7-mod-FS19_golden_casino.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090534-a81b0b7a897f-img-image_2026-05-17_110509575.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:05:35+00:00"
     }
 ]
