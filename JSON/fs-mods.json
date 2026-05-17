@@ -1296,5 +1296,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:07:58+00:00"
+    },
+    {
+        "id": "928cd2499a7baac9e0c0fe88672886a5",
+        "title": "Jungle Kids",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090848-a1ed16953fdd-mod-FS19_jungle_kids.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090855-72010c0ac05d-img-image_2026-05-17_110816297.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:08:56+00:00"
     }
 ]
