@@ -1483,5 +1483,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:29:14+00:00"
+    },
+    {
+        "id": "ce175a16061795246f8466598ca4f40b",
+        "title": "Surf Party",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092958-6082ad9633b7-mod-surf_party.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-093003-f9f7976c7bde-img-image_2026-05-17_112936352.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:30:04+00:00"
     }
 ]
