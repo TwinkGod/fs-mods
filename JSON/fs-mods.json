@@ -1351,5 +1351,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:14:26+00:00"
+    },
+    {
+        "id": "a43b5435c8335b8a2081032910cfb656",
+        "title": "Minos Bumper",
+        "version": "FS19",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-091507-ab16ef16d54c-mod-FS19_Minos_Bumper.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-091512-54cfbdb2fc47-img-image_2026-05-17_111436098.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:15:13+00:00"
     }
 ]
