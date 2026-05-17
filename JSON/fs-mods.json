@@ -1681,5 +1681,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:49:24+00:00"
+    },
+    {
+        "id": "a1e63bf58f0d7ce13de03df50c63e142",
+        "title": "test upload",
+        "version": "FS25",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-224155-e2c41f2fe329-mod-FS22_EasyDevControls.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-224155-debdd8cfd2d6-img-logo.ico",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T22:41:56+00:00"
     }
 ]
