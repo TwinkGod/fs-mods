@@ -1219,5 +1219,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:00:43+00:00"
+    },
+    {
+        "id": "6221f27309c79e990c40382ec9aaaf3f",
+        "title": "Extreme Top-Scan",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090212-1c3490628981-mod-extreme_top_scan.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-090224-9baeb1be7c5c-img-image_2026-05-17_110123761.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:02:24+00:00"
     }
 ]
