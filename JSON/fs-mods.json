@@ -1153,5 +1153,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T08:54:01+00:00"
+    },
+    {
+        "id": "840fe1b94435c892577b061eff0f64e3",
+        "title": "Booster Maxxx",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-085500-14de26e3b015-mod-booster_maxxxx.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-085506-74c136a3899d-img-image_2026-05-17_105426717.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T08:55:06+00:00"
     }
 ]
