@@ -1571,5 +1571,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:36:47+00:00"
+    },
+    {
+        "id": "e7170b676b39c6f06b90ae01770751eb",
+        "title": "EasyDevControl",
+        "version": "FS22",
+        "category": "Addons",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-094026-61681f6c0407-mod-FS22_EasyDevControls.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-094027-32039aac07ab-img-image_2026-05-17_114025352.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:40:27+00:00"
     }
 ]
