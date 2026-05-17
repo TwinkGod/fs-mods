@@ -1406,5 +1406,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:22:22+00:00"
+    },
+    {
+        "id": "b9d141d3b1c124a6edccd0d04829443e",
+        "title": "X-Factor",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092336-549d0b94e0aa-mod-xfactor.rar",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-092349-2ef3940cc23e-img-image_2026-05-17_112237155.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T09:23:50+00:00"
     }
 ]
