@@ -1197,5 +1197,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T08:58:08+00:00"
+    },
+    {
+        "id": "b35deb3b119b1aec7089b3c493ba64d0",
+        "title": "DiskoDance",
+        "version": "FS19",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-085836-b87705b91de5-mod-FS19_DiskoDance.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260517-085839-bfd51886ab61-img-image_2026-05-17_105819858.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-17T08:58:40+00:00"
     }
 ]
