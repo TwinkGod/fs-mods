@@ -1681,5 +1681,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-17T09:49:24+00:00"
+    },
+    {
+        "id": "bd2e395aeacecfa2d844a1321384b407",
+        "title": "Safari",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260521-150952-70863e337a52-mod-FS22_Safari.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260521-150956-a290efdb7bcd-img-loading.gif",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-21T15:09:57+00:00"
     }
 ]
