@@ -1714,5 +1714,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-05-24T19:31:15+00:00"
+    },
+    {
+        "id": "65f5f5272f3b7582b8a119075b4c83eb",
+        "title": "Race-o-Rama",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260524-194809-0c7a60241ead-mod-FS22_RaceoRama.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/20260524-194815-22cdfd874fcb-img-image_2026-05-24_214745797.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-05-24T19:48:16+00:00"
     }
 ]
