@@ -1912,5 +1912,27 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-06-02T12:00:00+00:00"
+    },
+        {
+        "id": "a1b2c3d4e5f67890123456789abcdef17",
+        "title": "Big Eli Wheel",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_Big_Eli_Wheel.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_Big_Eli_Wheel.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-02T12:00:00+00:00"
+    },
+        {
+        "id": "a1b2c3d4e5f67890123456789abcdef18",
+        "title": "US Freak Out",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_US_Freak_Out.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_US_Freak_Out.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-02T12:00:00+00:00"
     }
 ]
