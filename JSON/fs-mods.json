@@ -2165,16 +2165,5 @@
     "early_access": false,
     "broken": false,
     "added_at": "2026-06-04T16:00:00+00:00"
-  },
-  {
-    "id": "880753d0c6d9014dadd4bd42f7a931dd",
-    "title": "test",
-    "version": "FS22",
-    "category": "Rides",
-    "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_test.zip",
-    "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_test.jpg",
-    "early_access": false,
-    "broken": false,
-    "added_at": "2026-06-08T11:53:42.250Z"
   }
 ]
