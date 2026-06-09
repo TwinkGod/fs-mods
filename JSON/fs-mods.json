@@ -2242,5 +2242,71 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-06-03T16:00:00+00:00"
+    },
+    {
+        "id": "a1b2c3d4e5f67890123456789abcdef49",
+        "title": "Night Fly",
+        "version": "FS22",
+        "category": "Rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_nighfly.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_nighfly.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-03T16:00:00+00:00"
+    },
+    {
+        "id": "a1b2c3d4e5f67890123456789abcdef50",
+        "title": "Sterneschissen",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_Sterneschissen.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_Sterneschissen.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-03T16:00:00+00:00"
+    },
+    {
+        "id": "a1b2c3d4e5f67890123456789abcdef51",
+        "title": "Pink Date",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_pinkdate_UNZIP.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_pinkdate_UNZIP.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-03T16:00:00+00:00"
+    },
+    {
+        "id": "a1b2c3d4e5f67890123456789abcdef52",
+        "title": "Echelle Brésilienne",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_echellebresilienne.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_echellebresilienne.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-03T16:00:00+00:00"
+    },
+    {
+        "id": "a1b2c3d4e5f67890123456789abcdef53",
+        "title": "Las Vegas",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_las_vegas.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_las_vegas.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-03T16:00:00+00:00"
+    },
+    {
+        "id": "a1b2c3d4e5f67890123456789abcdef54",
+        "title": "Kebab V3",
+        "version": "FS22",
+        "category": "Stalls",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_kebab_v3.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_kebab_v3.png",
+        "early_access": false,
+        "broken": false,
+        "added_at": "2026-06-03T16:00:00+00:00"
     }
 ]
