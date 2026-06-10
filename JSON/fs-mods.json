@@ -59,12 +59,13 @@
     {
         "id": "b4a2fbc82e06f99d71a21fb4dc22e066",
         "title": "Aqua Blaster",
-        "version": "FS22",
-        "category": "Stalls",
+        "description": "Add a classic, water-themed midway attraction to your funfair setup. The Aqua Blaster is a self-contained game trailer featuring a decorated, themed cabinet equipped with four interactive water cannons and a lower water reservoir basin. Its compact footprint makes it the perfect choice for filling small gaps or lining the walkways of your local event layout.",
+        "version": "fs22",
+        "category": "stalls",
         "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_Aqua_blaster.zip",
         "image": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/20260516-130659-a8cb6afcb3c9-img-image_2026-05-16_150650803.png",
-        "early_access": false,
         "broken": false,
+        "early_access": false,
         "added_at": "2026-05-16T13:07:00+00:00"
     },
     {
