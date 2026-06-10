@@ -2385,15 +2385,5 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-06-10T16:00:00+00:00"
-    },
-    {
-        "title": "test",
-        "version": "fs25",
-        "category": "stalls",
-        "download": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/download\/1781089283-test.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/download\/1781089284-test.png",
-        "broken": false,
-        "early_access": false,
-        "added_at": "2026-06-10T11:01:25.479Z"
     }
 ]
