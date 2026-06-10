@@ -2385,5 +2385,16 @@
         "early_access": false,
         "broken": false,
         "added_at": "2026-06-10T16:00:00+00:00"
+    },
+    {
+        "id": "619c77a9c5adc9c1a0934a3b72a76b60",
+        "title": "test",
+        "version": "fs22",
+        "category": "others",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/LS25_bayern_leiter.zip",
+        "image": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/Flag_of_the_Netherlands.svg.png",
+        "broken": false,
+        "early_access": false,
+        "added_at": "2026-06-10T11:06:05.918Z"
     }
 ]
