@@ -47,12 +47,13 @@
     {
         "id": "d62443a7a7a6d5937f88698363a6c560",
         "title": "Airwolf",
-        "version": "FS22",
-        "category": "Rides",
+        "description": "Add a rare piece of fairground history to your map with the Airwolf. Based on the massive, classic Mondial Inferno engineering design, this unique attraction features a heavy counterweighted main arm that lifts passengers up to 25 meters. While the main arm turns, the two large individual passenger pods on either side rotate and tilt independently to deliver a high-amplitude, multi-axis ride experience.",
+        "version": "fs22",
+        "category": "rides",
         "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/Airwolf_Unzip.zip",
         "image": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/20260516-130633-fe0ffa0f9ee7-img-image_2026-05-16_150456655.png",
-        "early_access": false,
         "broken": false,
+        "early_access": false,
         "added_at": "2026-05-16T13:06:33+00:00"
     },
     {
