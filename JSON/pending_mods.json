@@ -1,0 +1,13 @@
+[
+    {
+        "id": "0b9f215e78397efb",
+        "title": "test1",
+        "description": "test1",
+        "version": "fs22",
+        "category": "rides",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/fs22_testfile.zip",
+        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_BoosterHighSpeed.1.png",
+        "submitter": "test1",
+        "added_at": "2026-06-11T21:45:29+02:00"
+    }
+]
