@@ -2101,7 +2101,7 @@
     },
     {
         "id": "a1b2c3d4e5f67890123456789abcdef35",
-        "title": "PÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªche aux Canards",
+        "title": "PÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªche aux Canards",
         "version": "FS25",
         "category": "Stalls",
         "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS25_stand_pecheauxcanards.zip",
@@ -2113,7 +2113,7 @@
     {
         "id": "a1b2c3d4e5f67890123456789abcdef36",
         "title": "Air One Max",
-        "description": "Bring high-octane thrills to your fairground with the Air One Maxx! Based on the famous KMG Sicko attraction, this high-performance pendulum ride features outward-facing suspended seating that wildly spins while the massive main arm swings riders up to a 120-degree angle. Complete with fully animated hydraulic setup sequences, custom operator booth, and an eye-catching neon LED lighting system, itÃÂÃÂ¢ÃÂÃÂÃÂÃÂs the perfect attraction to draw massive crowds to your regional show.",
+        "description": "Bring high-octane thrills to your fairground with the Air One Maxx! Based on the famous KMG Sicko attraction, this high-performance pendulum ride features outward-facing suspended seating that wildly spins while the massive main arm swings riders up to a 120-degree angle. Complete with fully animated hydraulic setup sequences, custom operator booth, and an eye-catching neon LED lighting system, itÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs the perfect attraction to draw massive crowds to your regional show.",
         "version": "fs25",
         "category": "rides",
         "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS25_manege_air_one_max_UNZIP.zip",
@@ -2289,7 +2289,7 @@
     },
     {
         "id": "a1b2c3d4e5f67890123456789abcdef52",
-        "title": "Echelle BrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©silienne",
+        "title": "Echelle BrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©silienne",
         "version": "FS22",
         "category": "Stalls",
         "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_stand_echellebresilienne.zip",
@@ -2367,7 +2367,7 @@
     {
         "id": "a1b2c3d4e5f67890123456789abcdef59",
         "title": "Airone Maxx",
-        "description": "Bring high-octane thrills to your fairground with the Air One Maxx! Based on the famous KMG Sicko attraction, this high-performance pendulum ride features outward-facing suspended seating that wildly spins while the massive main arm swings riders up to a 120-degree angle. Complete with fully animated hydraulic setup sequences, custom operator booth, and an eye-catching neon LED lighting system, itÃÂÃÂ¢ÃÂÃÂÃÂÃÂs the perfect attraction to draw massive crowds to your regional show.",
+        "description": "Bring high-octane thrills to your fairground with the Air One Maxx! Based on the famous KMG Sicko attraction, this high-performance pendulum ride features outward-facing suspended seating that wildly spins while the massive main arm swings riders up to a 120-degree angle. Complete with fully animated hydraulic setup sequences, custom operator booth, and an eye-catching neon LED lighting system, itÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs the perfect attraction to draw massive crowds to your regional show.",
         "version": "fs19",
         "category": "rides",
         "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS19_AironeMaxx_ZEModding_Unzip.rar",
@@ -2420,7 +2420,7 @@
         "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS22_BoosterHighSpeed.1.png",
         "broken": false,
         "early_access": false,
-        "community": false,
+        "community": true,
         "added_at": "2026-06-11T21:45:37+02:00"
     }
 ]
