@@ -2713,25 +2713,12 @@
         "title": "Stage Large",
         "description": "",
         "version": "fs25",
-        "category": "rides",
+        "category": "others",
         "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FBM25_Buehne.zip",
         "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/Screenshot.2026-06-14.115411.png",
         "broken": false,
         "early_access": false,
         "community": false,
         "added_at": "2026-06-14T09:56:50.706Z"
-    },
-    {
-        "id": "FS25_manege_surf_party_UNZIP",
-        "title": "Surf Party",
-        "description": "",
-        "version": "fs25",
-        "category": "rides",
-        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/FS25_manege_surf_party_UNZIP.zip",
-        "image": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/Screenshot.2026-06-14.115827.png",
-        "broken": false,
-        "early_access": false,
-        "community": false,
-        "added_at": "2026-06-14T09:59:41.002Z"
     }
 ]
