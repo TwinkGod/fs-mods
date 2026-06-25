@@ -3,8 +3,14 @@
         "id": "freizeitgestoert-2053ba",
         "name": "Freizeitgestoert",
         "url": "https:\/\/www.twitch.tv\/freizeitgestoert",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/1782077219_logo_freizeit.png",
-        "discord_id": "1296862225864065205",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/1782077219_logo_freizeit.png"
+    },
+    {
+        "id": "fairverse-test-c94d17",
+        "name": "Fairverse Test",
+        "url": "https:\/\/fairverse.net\/",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/1782411757_dclogo.png",
+        "discord_id": "1286030526184161431",
         "mod_assets": [
             "FS22_Freizeitgestoert_Trailer.zip"
         ]
