@@ -8,15 +8,5 @@
         "mod_assets": [
             "FS22_Freizeitgestoert_Trailer.zip"
         ]
-    },
-    {
-        "id": "fairverse-test-c94d17",
-        "name": "Fairverse Test",
-        "url": "https:\/\/fairverse.net\/",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/1782411757_dclogo.png",
-        "discord_id": "1286030526184161431",
-        "mod_assets": [
-            "FS22_Freizeitgestoert_Trailer.zip"
-        ]
     }
 ]
