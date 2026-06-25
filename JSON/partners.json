@@ -3,6 +3,10 @@
         "id": "freizeitgestoert-2053ba",
         "name": "Freizeitgestoert",
         "url": "https:\/\/www.twitch.tv\/freizeitgestoert",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/1782077219_logo_freizeit.png"
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/1782077219_logo_freizeit.png",
+        "discord_id": "1296862225864065205",
+        "mod_assets": [
+            "FS22_Freizeitgestoert_Trailer.zip"
+        ]
     }
 ]
