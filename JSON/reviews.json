@@ -95,6 +95,11 @@
         "name": "Anonymous",
         "rating": 5,
         "comment": "Really good website only porblem I hvae is star wars and graviton do not work, they wont show up in game",
-        "date": "2026-06-20T15:49:21+02:00"
+        "date": "2026-06-20T15:49:21+02:00",
+        "owner_reply": {
+            "message": "Hi! Thank you for your review. We will look into this :)!",
+            "by": "Sollarax ✧.*",
+            "replied_at": "2026-06-25T21:33:16+02:00"
+        }
     }
 ]
