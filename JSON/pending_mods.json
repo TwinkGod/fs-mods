@@ -1,18 +1,1 @@
-[
-    {
-        "id": "pending-5b667515e1c1",
-        "title": "test",
-        "description": "test",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/community-1782440505-83c8ae.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1782440507_3bfcd1b4.png",
-        "submitter": "Anonymous",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-06-26T04:21:50+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "2001:1c03:690f:d300:715f:231f:e38c:fd1f"
-    }
-]
+[]
