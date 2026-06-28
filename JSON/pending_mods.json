@@ -14,5 +14,21 @@
         "created_at": "2026-06-28T22:04:42+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a02:842a:bc00:3201:3023:65ff:cc81:3fb2"
+    },
+    {
+        "id": "pending-35d149345836",
+        "title": "scania",
+        "description": "for funfair use",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/community-1782688159-cce7e5.zip",
+        "image": "",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-06-29T01:09:28+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "77.99.229.106"
     }
 ]
