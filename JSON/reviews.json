@@ -4,7 +4,12 @@
         "name": "devin",
         "rating": 5,
         "comment": "the mods is good but i  don´t  get all mods i don´t no was the problem is can someone help",
-        "date": "2026-06-27T17:20:11+02:00"
+        "date": "2026-06-27T17:20:11+02:00",
+        "owner_reply": {
+            "message": "Join our Discord for support! Or use the support page on the site :)!",
+            "by": "Sollarax ✧.*",
+            "replied_at": "2026-06-28T20:44:44+02:00"
+        }
     },
     {
         "id": "6a3f962a11bda",
