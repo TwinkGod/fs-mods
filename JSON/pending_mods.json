@@ -30,21 +30,5 @@
         "created_at": "2026-06-29T01:09:28+02:00",
         "source": "community_upload_form",
         "submitted_ip": "77.99.229.106"
-    },
-    {
-        "id": "pending-9159e51339ee",
-        "title": "test",
-        "description": "this is a test",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/community-1782688171-412fa3.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1782688167_928f38d2.png",
-        "submitter": "Anonymous",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-06-29T01:09:38+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "2001:1c03:690f:d300:4968:e022:d6ed:bf83"
     }
 ]
