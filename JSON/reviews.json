@@ -30,7 +30,12 @@
         "name": "Bernd",
         "rating": 5,
         "comment": "Tolle Seite, tolle Mods,\nleider zwei Archive defekt.\nGruß \nBernd\n\n\nFS22_Roller_bob_UNZIP+KIRMES_FS22_Chaos_UNZIP",
-        "date": "2026-06-25T14:29:55+02:00"
+        "date": "2026-06-25T14:29:55+02:00",
+        "owner_reply": {
+            "message": "Make sure you unzip the mods! Still not working? Make a support ticket.",
+            "by": "Sollarax ✧.*",
+            "replied_at": "2026-06-28T20:45:16+02:00"
+        }
     },
     {
         "id": "6a3bc9e79881b",
