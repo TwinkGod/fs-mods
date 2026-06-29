@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "id": "pending-56085f4fc8fd",
+        "title": "go kart",
+        "description": "go kart",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/community-1782724768-6d0f2a.zip",
+        "image": "",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-06-29T11:19:39+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "77.99.229.106"
+    }
+]
