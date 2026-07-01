@@ -46,21 +46,5 @@
         "created_at": "2026-07-01T04:38:40+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2003:c0:671b:8096:cda0:ed18:df8a:21d1"
-    },
-    {
-        "id": "pending-f1d19618be98",
-        "title": "test IGNORE THIS",
-        "description": "TEST",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/lightdots2-c62cf9.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1782896900_b0b040e4.png",
-        "submitter": "Anonymous",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-07-01T11:08:32+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "185.132.179.14"
     }
 ]
