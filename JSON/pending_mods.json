@@ -14,5 +14,21 @@
         "created_at": "2026-06-29T19:34:21+02:00",
         "source": "community_upload_form",
         "submitted_ip": "77.99.229.106"
+    },
+    {
+        "id": "pending-c570db2aed88",
+        "title": "FS22_Dreier_looping",
+        "description": "🎡 **FS22 – Dreier Looping** 🎡\n\nDer **Dreier Looping** ist ab sofort für den Landwirtschafts-Simulator 22 verfügbar! 🔥",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/community-1782870920-a47e07.zip",
+        "image": "",
+        "submitter": "der Coole 1993",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-01T03:55:26+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2003:c0:671b:8096:cda0:ed18:df8a:21d1"
     }
 ]
