@@ -35,10 +35,12 @@
         "mod_category": "rides",
         "description": "Link Not working",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-01T13:00:31+02:00",
-        "updated_at": "2026-07-01T13:00:31+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-02T00:31:46+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-02T00:31:46+02:00"
     },
     {
         "id": "report-a6ec603fd217",
