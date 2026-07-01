@@ -30,21 +30,5 @@
         "created_at": "2026-07-01T04:38:38+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2003:c0:671b:8096:cda0:ed18:df8a:21d1"
-    },
-    {
-        "id": "pending-efd207f49867",
-        "title": "FS22_Dreier_looping",
-        "description": "FS22_Dreier_looping",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/community-1782873514-773ba9.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1782873489_a6c7057d.png",
-        "submitter": "Gamer xos (FR)",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-07-01T04:38:40+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "2003:c0:671b:8096:cda0:ed18:df8a:21d1"
     }
 ]
