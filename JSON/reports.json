@@ -70,5 +70,18 @@
         "updated_at": "2026-07-02T00:31:36+02:00",
         "source": "mods_page",
         "updated_by": "Sollarax ✧.*"
+    },
+    {
+        "id": "report-8fca0ee39dd3",
+        "mod_id": "freefall-eff4bf",
+        "mod_title": "Freefall",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "not working idk when i get in the game no mod appears",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-02T07:01:28+02:00",
+        "updated_at": "2026-07-02T07:01:28+02:00",
+        "source": "mods_page"
     }
 ]
