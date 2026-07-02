@@ -51,11 +51,12 @@
         "mod_category": "others",
         "description": "dont show in game",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-01T16:08:25+02:00",
-        "updated_at": "2026-07-02T00:31:55+02:00",
+        "updated_at": "2026-07-02T22:59:57+02:00",
         "source": "mods_page",
-        "updated_by": "Sollarax ✧.*"
+        "updated_by": "SlickAsRik",
+        "fixed_at": "2026-07-02T22:59:57+02:00"
     },
     {
         "id": "report-f69a274ce053",
