@@ -22,11 +22,12 @@
         "mod_category": "others",
         "description": "Hallo ich habe den Mod Runtergeladen aber wird nicht im Spiel angezeigt zum ativieren",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-01T11:41:36+02:00",
-        "updated_at": "2026-07-02T00:32:05+02:00",
+        "updated_at": "2026-07-02T23:00:29+02:00",
         "source": "mods_page",
-        "updated_by": "Sollarax ✧.*"
+        "updated_by": "SlickAsRik",
+        "fixed_at": "2026-07-02T23:00:29+02:00"
     },
     {
         "id": "report-b0c2d1ed5069",
