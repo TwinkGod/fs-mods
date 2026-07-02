@@ -77,7 +77,12 @@
         "name": "Starry",
         "rating": 5,
         "comment": "best place to get funfair mods, saves pulling hair out finding sites lol",
-        "date": "2026-06-21T16:57:08+02:00"
+        "date": "2026-06-21T16:57:08+02:00",
+        "owner_reply": {
+            "message": "Ty;)",
+            "by": "Leon",
+            "replied_at": "2026-07-02T18:36:29+02:00"
+        }
     },
     {
         "id": "6a37da7803a8c",
