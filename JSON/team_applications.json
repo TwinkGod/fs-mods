@@ -73,5 +73,23 @@
         "updated_at": "2026-07-03T18:49:08+02:00",
         "source": "team_applications_page",
         "submitted_ip": "2a00:23c8:3790:ca01:8179:7055:a9c2:c693"
+    },
+    {
+        "id": "app-6702eb7bb675",
+        "name": "Frosty",
+        "discord": "fr0sty_night",
+        "discord_user_id": "1471903731942559948",
+        "age": "",
+        "timezone": "GMT+1",
+        "role": "Developer",
+        "availability": "15-17",
+        "experience": "i have been a developer for around 2-3 years now i have made lots of projects fair related and also not",
+        "motivation": "i want to be apart of fairverse to help deliver some uk rides to farming sim as its lacking them",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-03T18:58:45+02:00",
+        "updated_at": "2026-07-03T18:58:45+02:00",
+        "source": "team_applications_page",
+        "submitted_ip": "2a00:23c7:22b6:ef01:e5f3:9a80:996:5f7c"
     }
 ]
