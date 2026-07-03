@@ -91,5 +91,23 @@
         "updated_at": "2026-07-03T18:58:45+02:00",
         "source": "team_applications_page",
         "submitted_ip": "2a00:23c7:22b6:ef01:e5f3:9a80:996:5f7c"
+    },
+    {
+        "id": "app-da46b99de04f",
+        "name": "Tom Wright",
+        "discord": "tomcwright93",
+        "discord_user_id": "1134391996128165968",
+        "age": "32",
+        "timezone": "BST",
+        "role": "Moderator",
+        "availability": "20+",
+        "experience": "Spent a little while in the discord and understand the standards. Fairground enthusiast for 20+ years",
+        "motivation": "Its my favourite community. and the only discord im regular in",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-03T22:20:19+02:00",
+        "updated_at": "2026-07-03T22:20:19+02:00",
+        "source": "team_applications_page",
+        "submitted_ip": "31.54.202.80"
     }
 ]
