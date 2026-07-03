@@ -1,0 +1,19 @@
+[
+    {
+        "id": "app-245b57f28cd8",
+        "name": "Fairverse",
+        "discord": "test#5245",
+        "age": "14",
+        "timezone": "GMT+1",
+        "role": "Developer",
+        "availability": "6",
+        "experience": "426",
+        "motivation": "rwg",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-03T16:01:00+02:00",
+        "updated_at": "2026-07-03T16:01:00+02:00",
+        "source": "team_applications_page",
+        "submitted_ip": "2001:1c03:690f:d300:3130:425d:da47:9894"
+    }
+]
