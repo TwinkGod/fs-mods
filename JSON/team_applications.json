@@ -17,5 +17,23 @@
         "submitted_ip": "2001:1c03:690f:d300:3130:425d:da47:9894",
         "reviewed_by": "Sollarax ✧.*",
         "reviewed_at": "2026-07-03T16:06:58+02:00"
+    },
+    {
+        "id": "app-52ec53af5f7d",
+        "name": "Fairverse2",
+        "discord": "s1veril",
+        "discord_user_id": "1286030526184161431",
+        "age": "15",
+        "timezone": "GMT+1",
+        "role": "Moderator",
+        "availability": "6",
+        "experience": "gefdghwrg",
+        "motivation": "yesyes sure",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-03T16:08:22+02:00",
+        "updated_at": "2026-07-03T16:08:22+02:00",
+        "source": "team_applications_page",
+        "submitted_ip": "2001:1c03:690f:d300:3130:425d:da47:9894"
     }
 ]
