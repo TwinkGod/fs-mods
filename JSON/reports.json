@@ -118,5 +118,18 @@
         "source": "mods_page",
         "updated_by": "SlickAsRik",
         "fixed_at": "2026-07-02T22:59:38+02:00"
+    },
+    {
+        "id": "report-14d51e888974",
+        "mod_id": "xxl-apres-ski-280f61",
+        "mod_title": "XXL Apres Ski",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "THE LIGHT IST ALWAYS ON",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-04T12:30:23+02:00",
+        "updated_at": "2026-07-04T12:30:23+02:00",
+        "source": "mods_page"
     }
 ]
