@@ -145,5 +145,23 @@
         "updated_at": "2026-07-04T17:57:30+02:00",
         "source": "team_applications_page",
         "submitted_ip": "2a0a:a543:65a7:0:1877:17fb:4a23:5dd4"
+    },
+    {
+        "id": "app-de54fa9590e3",
+        "name": "Erik",
+        "discord": "slickasrik",
+        "discord_user_id": "708045063929725059",
+        "age": "99",
+        "timezone": "BERLIN",
+        "role": "Other",
+        "availability": "not at all",
+        "experience": "I have been in the fairverse Team",
+        "motivation": "OWNER",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-04T18:12:48+02:00",
+        "updated_at": "2026-07-04T18:12:48+02:00",
+        "source": "team_applications_page",
+        "submitted_ip": "2003:e7:674c:76b9:6d31:6c64:26b0:4720"
     }
 ]
