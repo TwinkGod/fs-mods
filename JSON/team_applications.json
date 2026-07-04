@@ -109,5 +109,23 @@
         "updated_at": "2026-07-03T22:20:19+02:00",
         "source": "team_applications_page",
         "submitted_ip": "31.54.202.80"
+    },
+    {
+        "id": "app-fd33dcc84339",
+        "name": "George",
+        "discord": "waltzerladslothy",
+        "discord_user_id": "1124009668373651567",
+        "age": "",
+        "timezone": "BST",
+        "role": "Moderator",
+        "availability": "5 hours",
+        "experience": "Current administrator for MRC",
+        "motivation": "Active daily and I can talk to people with no issues (customer experienced)",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-04T14:04:54+02:00",
+        "updated_at": "2026-07-04T14:04:54+02:00",
+        "source": "team_applications_page",
+        "submitted_ip": "2a00:23ee:2948:15ec:7466:7fff:fe66:9e7b"
     }
 ]
