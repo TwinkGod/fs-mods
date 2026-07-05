@@ -172,9 +172,11 @@
         "mod_category": "rides",
         "description": "Chairs not moving, I solved that but still chairlights are all one, its impossible to add them to the turning chairs so they can turn along",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-05T16:29:35+02:00",
-        "updated_at": "2026-07-05T16:29:35+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-05T19:28:38+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-05T19:28:38+02:00"
     }
 ]
