@@ -178,5 +178,18 @@
         "source": "mods_page",
         "updated_by": "Sollarax ✧.*",
         "fixed_at": "2026-07-05T19:28:38+02:00"
+    },
+    {
+        "id": "report-0b74769d3f03",
+        "mod_id": "FBM25_Buehne",
+        "mod_title": "Stage Large",
+        "mod_version": "fs25",
+        "mod_category": "rides",
+        "description": "unable to get it to load with the new update 1.1 9 Xbox is",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-06T17:28:21+02:00",
+        "updated_at": "2026-07-06T17:28:21+02:00",
+        "source": "mods_page"
     }
 ]
