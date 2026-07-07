@@ -46,5 +46,21 @@
         "created_at": "2026-07-07T16:07:37+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a02:842a:bc00:3201:80d7:a85b:7971:9596"
+    },
+    {
+        "id": "pending-0f72e8897726",
+        "title": "Mini zweef iveco 1\/2",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_Iveco_Mini_Zweef_a303518e8859.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1783433270_7a5e0e01.jpg",
+        "submitter": "modsMC",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-07T16:08:39+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2a02:842a:bc00:3201:80d7:a85b:7971:9596"
     }
 ]
