@@ -187,9 +187,11 @@
         "mod_category": "rides",
         "description": "unable to get it to load with the new update 1.1 9 Xbox is",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-06T17:28:21+02:00",
-        "updated_at": "2026-07-06T17:28:21+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-08T20:13:44+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-08T20:13:44+02:00"
     }
 ]
