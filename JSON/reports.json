@@ -7,9 +7,11 @@
         "mod_category": "review",
         "description": "Launcher review rating: 5\/5\nComment: (none)\nSubmitted at: 2026-07-09T12:28:55.239Z",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-09T14:28:54+02:00",
-        "updated_at": "2026-07-09T14:28:54+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-09T23:13:16+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-09T23:13:16+02:00"
     }
 ]
