@@ -41,5 +41,18 @@
         "created_at": "2026-07-11T17:05:38+02:00",
         "updated_at": "2026-07-11T17:05:38+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-c7ccc12c4b8f",
+        "mod_id": "f780cfe4236b16338e53abbe47c5e05f",
+        "mod_title": "Ocean King",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "can't open the zipfile",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-11T23:20:50+02:00",
+        "updated_at": "2026-07-11T23:20:50+02:00",
+        "source": "mods_page"
     }
 ]
