@@ -37,10 +37,12 @@
         "mod_category": "rides",
         "description": "DOESENT WORK",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-11T17:05:38+02:00",
-        "updated_at": "2026-07-11T17:05:38+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-11T23:27:07+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-11T23:27:07+02:00"
     },
     {
         "id": "report-c7ccc12c4b8f",
