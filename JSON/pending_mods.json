@@ -14,21 +14,5 @@
         "created_at": "2026-07-12T16:12:49+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2001:861:c84:c500:9247:fa62:aeaa:c1f9"
-    },
-    {
-        "id": "pending-12c34ea29196",
-        "title": "Antartica",
-        "description": "",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_manege_antartica_UNZIP_08195325d455Copy.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1783866224_8edc0353.jpg",
-        "submitter": "modsMC",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-07-12T16:25:46+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "2001:861:c84:c500:9247:fa62:aeaa:c1f9"
     }
 ]
