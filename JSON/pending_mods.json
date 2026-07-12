@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "id": "pending-80a8a216334e",
+        "title": "Toboggan géant v2",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_manege_tobbogan_geant_v2_UNZIP_eeab56c64ad54.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1783865534_13a494e8.jpg",
+        "submitter": "modsMC",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-12T16:12:49+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2001:861:c84:c500:9247:fa62:aeaa:c1f9"
+    }
+]
