@@ -80,10 +80,12 @@
         "mod_category": "rides",
         "description": "kann man nicht aufbauen",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-13T00:26:26+02:00",
-        "updated_at": "2026-07-13T00:26:26+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-13T23:06:02+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-13T23:06:02+02:00"
     },
     {
         "id": "report-5fec95498eb1",
