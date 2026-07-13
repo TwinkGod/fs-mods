@@ -93,9 +93,11 @@
         "mod_category": "addons",
         "description": "The game indicates that the mod is incompatible.",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-13T22:50:28+02:00",
-        "updated_at": "2026-07-13T22:50:28+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-13T22:52:49+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-13T22:52:49+02:00"
     }
 ]
