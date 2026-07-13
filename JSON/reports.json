@@ -66,11 +66,12 @@
         "mod_category": "rides",
         "description": "can't open the zip file.",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-11T23:22:56+02:00",
-        "updated_at": "2026-07-11T23:27:01+02:00",
+        "updated_at": "2026-07-13T23:06:09+02:00",
         "source": "mods_page",
-        "updated_by": "Sollarax ✧.*"
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-13T23:06:09+02:00"
     },
     {
         "id": "report-19e4748a0a7f",
