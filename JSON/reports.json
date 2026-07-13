@@ -52,11 +52,12 @@
         "mod_category": "rides",
         "description": "can't open the zipfile",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-11T23:20:50+02:00",
-        "updated_at": "2026-07-11T23:26:59+02:00",
+        "updated_at": "2026-07-13T23:06:13+02:00",
         "source": "mods_page",
-        "updated_by": "Sollarax ✧.*"
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-13T23:06:13+02:00"
     },
     {
         "id": "report-91f1d142f0ea",
