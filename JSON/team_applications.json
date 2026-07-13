@@ -177,5 +177,33 @@
         "submitted_ip": "2003:e7:674c:76b9:6d31:6c64:26b0:4720",
         "reviewed_by": "Sollarax ✧.*",
         "reviewed_at": "2026-07-13T23:11:23+02:00"
+    },
+    {
+        "id": "app-rbx-6a0eeca59736",
+        "name": "test",
+        "discord": "s1veril",
+        "discord_user_id": "1286030526184161431",
+        "age": "12",
+        "timezone": "CET",
+        "role": "Scripter",
+        "availability": "5",
+        "experience": "test\n\nExtra Notes:\ntest\n\nImage Samples:\napplications\/roblox\/uploads\/20260714_010349_814d5ccd54b5_1.png",
+        "motivation": "test",
+        "portfolio": "",
+        "status": "new",
+        "created_at": "2026-07-14T01:03:49+02:00",
+        "updated_at": "2026-07-14T01:03:49+02:00",
+        "source": "roblox_apply_page",
+        "submitted_ip": "2001:1c03:690f:d300:d182:ac1f:4e5b:80f5",
+        "application_type": "roblox",
+        "roblox_username": "test",
+        "contact_email": "contact.fairverse@gmail.com",
+        "roles": [
+            "scripter"
+        ],
+        "image_paths": [
+            "applications\/roblox\/uploads\/20260714_010349_814d5ccd54b5_1.png"
+        ],
+        "extra_notes": "test"
     }
 ]
