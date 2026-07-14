@@ -46,5 +46,21 @@
         "created_at": "2026-07-15T00:24:56+02:00",
         "source": "community_upload_form",
         "submitted_ip": "172.59.219.129"
+    },
+    {
+        "id": "pending-f42ad6072e97",
+        "title": "Festzelt",
+        "description": "",
+        "category": "stalls",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_festzelt.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784072998_83a625f5.png",
+        "submitter": "MVT",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-15T01:53:31+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "83.82.145.16"
     }
 ]
