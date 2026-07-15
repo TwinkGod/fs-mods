@@ -14,21 +14,5 @@
         "created_at": "2026-07-15T01:53:31+02:00",
         "source": "community_upload_form",
         "submitted_ip": "83.82.145.16"
-    },
-    {
-        "id": "pending-05013f95b9fa",
-        "title": "Waterball",
-        "description": "",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/KIRMES_FS22_Waterball.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784119002_3b39365a.png",
-        "submitter": "Anonymous",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-07-15T14:36:58+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "85.86.60.116"
     }
 ]
