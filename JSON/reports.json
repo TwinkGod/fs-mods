@@ -146,5 +146,18 @@
         "created_at": "2026-07-15T17:15:06+02:00",
         "updated_at": "2026-07-15T17:15:06+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-3c7daca96011",
+        "mod_id": "predator-new-10455c",
+        "mod_title": "Predator NEW",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "bug",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-15T17:15:22+02:00",
+        "updated_at": "2026-07-15T17:15:22+02:00",
+        "source": "mods_page"
     }
 ]
