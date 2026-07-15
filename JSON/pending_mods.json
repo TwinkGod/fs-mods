@@ -1,21 +1,5 @@
 [
     {
-        "id": "pending-394d3fe8610c",
-        "title": "Imperator",
-        "description": "",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/HighBean_Imperator.zip",
-        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784035315_884667c0.png",
-        "submitter": "MVT",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-07-14T15:23:20+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "83.82.145.16"
-    },
-    {
         "id": "pending-f42ad6072e97",
         "title": "Festzelt",
         "description": "",
