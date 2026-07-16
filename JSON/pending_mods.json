@@ -62,5 +62,21 @@
         "created_at": "2026-07-16T13:05:41+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
+    },
+    {
+        "id": "pending-c60b0dcc7770",
+        "title": "SIMULATOR 5D",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_Simulator5DUNZIP.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784226371_aedd2d69.png",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-16T20:28:07+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2a06:5902:4035:ca00:108d:a81f:f68a:6935"
     }
 ]
