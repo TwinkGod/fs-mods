@@ -14,5 +14,21 @@
         "created_at": "2026-07-16T12:25:11+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
+    },
+    {
+        "id": "pending-57c96ff03f62",
+        "title": "Twister Rework Mittwlbau",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/Twister_rework_Mittelbau_Mikeey.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784198220_f5de8e7c.png",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-16T12:37:05+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
     }
 ]
