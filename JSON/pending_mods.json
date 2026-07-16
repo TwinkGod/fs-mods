@@ -110,5 +110,21 @@
         "created_at": "2026-07-16T20:42:36+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a06:5902:4035:ca00:108d:a81f:f68a:6935"
+    },
+    {
+        "id": "pending-fbbebdf80566",
+        "title": "DJ stage truck",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_dj_stageTruckTrailer.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784232835_168b52be.png",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-16T22:14:01+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "85.86.60.116"
     }
 ]
