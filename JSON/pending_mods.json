@@ -46,5 +46,21 @@
         "created_at": "2026-07-16T12:52:12+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
+    },
+    {
+        "id": "pending-b0227e6c1df8",
+        "title": "Rainbow",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/KIRMES_FS22_RainbowUNZIP.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1784199663_b6371719.png",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-16T13:05:41+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
     }
 ]
