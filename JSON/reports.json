@@ -223,5 +223,18 @@
         "source": "mods_page",
         "updated_by": "Leon",
         "fixed_at": "2026-07-18T11:50:54+02:00"
+    },
+    {
+        "id": "report-2f2873645282",
+        "mod_id": "launcher-review",
+        "mod_title": "Fairverse Launcher Review",
+        "mod_version": "launcher",
+        "mod_category": "review",
+        "description": "Launcher review rating: 5\/5\nComment: Great mods , Love how all i need to do is click install.\nSubmitted at: 2026-07-18T15:58:51.516Z",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-18T17:58:47+02:00",
+        "updated_at": "2026-07-18T17:58:47+02:00",
+        "source": "mods_page"
     }
 ]
