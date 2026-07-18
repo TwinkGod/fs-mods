@@ -30,21 +30,5 @@
         "created_at": "2026-07-16T12:37:05+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
-    },
-    {
-        "id": "pending-8ae0f629d3a8",
-        "title": "double booster UNZIP",
-        "description": "",
-        "category": "rides",
-        "version": "fs22",
-        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/KIRMES_FS22_DoubleBooster.zip",
-        "image": "",
-        "submitter": "Anonymous",
-        "contact": "",
-        "community": true,
-        "status": "pending",
-        "created_at": "2026-07-16T12:52:12+02:00",
-        "source": "community_upload_form",
-        "submitted_ip": "2a06:5902:4035:ca00:85bc:1880:60af:b018"
     }
 ]
