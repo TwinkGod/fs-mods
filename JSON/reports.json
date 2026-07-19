@@ -262,10 +262,12 @@
         "mod_category": "rides",
         "description": "bug",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-19T12:38:31+02:00",
-        "updated_at": "2026-07-19T12:38:31+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-19T22:42:09+02:00",
+        "source": "mods_page",
+        "updated_by": "SlickAsRik",
+        "fixed_at": "2026-07-19T22:42:09+02:00"
     },
     {
         "id": "report-fcac9af9bd2a",
