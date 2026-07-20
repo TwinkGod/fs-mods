@@ -283,5 +283,18 @@
         "source": "mods_page",
         "updated_by": "SlickAsRik",
         "fixed_at": "2026-07-19T22:42:12+02:00"
+    },
+    {
+        "id": "report-aa501dbb39de",
+        "mod_id": "launcher-review",
+        "mod_title": "Fairverse Launcher Review",
+        "mod_version": "launcher",
+        "mod_category": "review",
+        "description": "Launcher review rating: 3\/5\nComment: (none)\nSubmitted at: 2026-07-20T12:37:33.969Z",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-20T14:37:36+02:00",
+        "updated_at": "2026-07-20T14:37:36+02:00",
+        "source": "mods_page"
     }
 ]
