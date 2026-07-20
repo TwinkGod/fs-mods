@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "id": "pending-50d5b7204d22",
+        "title": "jocker",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_Joker.zip",
+        "image": "",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-07-21T01:05:03+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "92.88.171.120"
+    }
+]
