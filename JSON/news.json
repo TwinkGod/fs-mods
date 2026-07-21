@@ -1,15 +1,15 @@
 [
     {
         "id": "article-cf33efaddf51",
-        "title": "🚀 No More ModDesc Issues on Fairverse",
-        "content": "Good news for everyone downloading mods from Fairverse! 🎉We've introduced a new system that automatically adjusts the modDesc.xml version when needed. This means you no longer have to figure out which descVersion your game requires or manually edit the file yourself.Simply download the mod and enjoy, Fairverse will handle the compatibility for you behind the scenes.",
-        "content_html": "<p class=\"isSelectedEnd\">Good news for everyone downloading mods from <strong>Fairverse<\/strong>! 🎉<\/p><p class=\"isSelectedEnd\"><br><\/p><p class=\"isSelectedEnd\">We've introduced a new system that <strong>automatically adjusts the <\/strong><strong>modDesc.xml<\/strong><strong> version<\/strong> when needed. This means you no longer have to figure out which descVersion your game requires or manually edit the file yourself.<\/p><p><br><\/p><p>Simply download the mod and enjoy, Fairverse will handle the compatibility for you behind the scenes.<\/p>",
-        "excerpt": "Good news for everyone downloading mods from Fairverse! 🎉We've introduced a new system that automatically adjusts the modDesc.xml version when needed. This means you no longer...",
+        "title": "No More ModDesc Issues on Fairverse",
+        "content": "Good news for everyone downloading mods from Fairverse! We've introduced a new system that automatically adjusts the modDesc.xml version when needed. This means you no longer have to figure out which descVersion your game requires or manually edit the file yourself.Simply download the mod and enjoy, Fairverse will handle the compatibility for you behind the scenes.",
+        "content_html": "<p class=\"isSelectedEnd\">Good news for everyone downloading mods from <strong>Fairverse<\/strong>!&nbsp;<\/p><p class=\"isSelectedEnd\"><br><\/p><p class=\"isSelectedEnd\">We've introduced a new system that <strong>automatically adjusts the <\/strong><strong>modDesc.xml<\/strong><strong> version<\/strong> when needed. This means you no longer have to figure out which descVersion your game requires or manually edit the file yourself.<\/p><p><br><\/p><p>Simply download the mod and enjoy, Fairverse will handle the compatibility for you behind the scenes.<\/p>",
+        "excerpt": "Good news for everyone downloading mods from Fairverse! We've introduced a new system that automatically adjusts the modDesc.xml version when needed. This means you no longer hav...",
         "hero_image": "",
         "author": "Sollarax ✧.*",
         "category": "update",
         "pinned": true,
         "created_at": "2026-07-22T01:40:42+02:00",
-        "updated_at": "2026-07-22T01:40:42+02:00"
+        "updated_at": "2026-07-22T01:47:26+02:00"
     }
 ]
