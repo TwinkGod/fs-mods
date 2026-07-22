@@ -322,10 +322,12 @@
         "mod_category": "others",
         "description": "la descarga no funciona",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-22T11:06:56+02:00",
-        "updated_at": "2026-07-22T11:06:56+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-22T19:48:00+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-22T19:48:00+02:00"
     },
     {
         "id": "report-b218f33ffcff",
