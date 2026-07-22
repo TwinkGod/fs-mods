@@ -307,10 +307,12 @@
         "mod_category": "rides",
         "description": "le téléchargement fonctionne mais pas le jue",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-21T22:33:07+02:00",
-        "updated_at": "2026-07-21T22:33:07+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-22T19:47:34+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-22T19:47:34+02:00"
     },
     {
         "id": "report-c665d50003bd",
