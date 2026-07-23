@@ -413,5 +413,18 @@
         "created_at": "2026-07-22T20:48:34+02:00",
         "updated_at": "2026-07-22T20:48:34+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-07261d1b497e",
+        "mod_id": "schlittenfahrt-009c79",
+        "mod_title": "Schlittenfahrt",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "does show in game",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-23T11:35:48+02:00",
+        "updated_at": "2026-07-23T11:35:48+02:00",
+        "source": "mods_page"
     }
 ]
