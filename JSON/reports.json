@@ -472,10 +472,12 @@
         "mod_category": "stalls",
         "description": "possible de l'avoir en fs22 stp \nmerci d'avance",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-25T15:52:56+02:00",
-        "updated_at": "2026-07-25T15:52:56+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-26T01:44:48+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-26T01:44:48+02:00"
     },
     {
         "id": "report-bfe61942b974",
