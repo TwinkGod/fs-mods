@@ -395,11 +395,12 @@
         "mod_category": "rides",
         "description": "take me to a  github page",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-22T20:45:53+02:00",
-        "updated_at": "2026-07-23T00:25:51+02:00",
+        "updated_at": "2026-07-26T01:44:37+02:00",
         "source": "mods_page",
-        "updated_by": "Sollarax ✧.*"
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-26T01:44:37+02:00"
     },
     {
         "id": "report-48431f2d582a",
