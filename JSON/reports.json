@@ -564,5 +564,18 @@
         "created_at": "2026-07-27T15:20:52+02:00",
         "updated_at": "2026-07-27T15:20:52+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-991580cfce2f",
+        "mod_id": "nini-521bc5",
+        "mod_title": "Nini",
+        "mod_version": "fs22",
+        "mod_category": "stalls",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Nini\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-27T23:55:06+02:00",
+        "updated_at": "2026-07-27T23:55:06+02:00",
+        "source": "mods_page"
     }
 ]
