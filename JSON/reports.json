@@ -517,10 +517,12 @@
         "mod_category": "review",
         "description": "Launcher review rating: 5\/5\nComment: nothing!!\nSubmitted at: 2026-07-26T15:42:49.794Z",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-26T17:42:38+02:00",
-        "updated_at": "2026-07-26T17:42:38+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-27T20:26:52+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-27T20:26:52+02:00"
     },
     {
         "id": "report-bab230162d36",
