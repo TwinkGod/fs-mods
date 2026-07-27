@@ -545,5 +545,18 @@
         "created_at": "2026-07-27T15:20:44+02:00",
         "updated_at": "2026-07-27T15:20:44+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-54196fad0127",
+        "mod_id": "megadance-lights-controller-2d6fc6",
+        "mod_title": "Megadance Lights Controller",
+        "mod_version": "fo",
+        "mod_category": "rides",
+        "description": "Download isn't working.",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-27T15:20:52+02:00",
+        "updated_at": "2026-07-27T15:20:52+02:00",
+        "source": "mods_page"
     }
 ]
