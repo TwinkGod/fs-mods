@@ -655,5 +655,18 @@
         "created_at": "2026-07-28T17:26:45+02:00",
         "updated_at": "2026-07-28T17:26:45+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-3fda2b69f834",
+        "mod_id": "homan-pack-af76fa",
+        "mod_title": "Homan Pack",
+        "mod_version": "fs22",
+        "mod_category": "others",
+        "description": "يتحول هذا التعديل إلى طائرة عند تركيبه على شاحنة، لماذا يحدث هذا؟ أرجو إصلاحه وإلا سأبلغ الموقع عن المشكلة. هل هذه الطائرة مخصصة للصندوق؟",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-28T17:29:07+02:00",
+        "updated_at": "2026-07-28T17:29:07+02:00",
+        "source": "mods_page"
     }
 ]
