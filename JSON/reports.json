@@ -668,5 +668,18 @@
         "created_at": "2026-07-28T17:29:07+02:00",
         "updated_at": "2026-07-28T17:29:07+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-21e8ea866cfa",
+        "mod_id": "disney-autoscooter-f4add1",
+        "mod_title": "Disney Autoscooter",
+        "mod_version": "fs25",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Disney Autoscooter\n- Game version: FS25\nc e n'est pas les autotemponeuse mais le manege enfant disnet",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-28T17:31:23+02:00",
+        "updated_at": "2026-07-28T17:31:23+02:00",
+        "source": "mods_page"
     }
 ]
