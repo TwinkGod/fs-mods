@@ -11,5 +11,18 @@
         "created_at": "2026-07-29T16:27:35+02:00",
         "updated_at": "2026-07-29T16:27:35+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-522d64d6664b",
+        "mod_id": "northpole-b9a6cc",
+        "mod_title": "Northpole",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Northpole\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-29T21:03:49+02:00",
+        "updated_at": "2026-07-29T21:03:49+02:00",
+        "source": "mods_page"
     }
 ]
