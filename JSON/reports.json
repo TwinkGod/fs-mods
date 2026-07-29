@@ -54,5 +54,18 @@
         "source": "mods_page",
         "updated_by": "Sollarax ✧.*",
         "fixed_at": "2026-07-29T21:50:38+02:00"
+    },
+    {
+        "id": "report-b85f4d449a09",
+        "mod_id": "a1b2c3d4e5f67890123456789abcdef44",
+        "mod_title": "Grande Roue Jolievue",
+        "mod_version": "fs25",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Grande Roue Jolievue\n- Game version: FS25",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-29T23:20:18+02:00",
+        "updated_at": "2026-07-29T23:20:18+02:00",
+        "source": "mods_page"
     }
 ]
