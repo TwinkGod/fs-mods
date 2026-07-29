@@ -1,5 +1,18 @@
 [
     {
+        "id": "article-60f02a02fed2",
+        "title": "VIRTUAL RIDES 3 GIVEAWAY",
+        "content": "Next month Fairverse exists for 1 year! 🎉To make it a bit more exciting to wait, we are doing a giveaway..! You are able to win Virtual Rides 3 Steam key. Join the discord to enter!✨",
+        "content_html": "Next month Fairverse exists for 1 year! 🎉To make it a bit more exciting to wait, we are doing a giveaway..! You are able to win Virtual Rides 3 Steam key. Join the discord to enter!✨",
+        "excerpt": "Next month Fairverse exists for 1 year! 🎉To make it a bit more exciting to wait, we are doing a giveaway..! You are able to win Virtual Rides 3 Steam key. Join the discord to e...",
+        "hero_image": "",
+        "author": "Sollarax ✧.*",
+        "category": "general",
+        "pinned": true,
+        "created_at": "2026-07-30T01:40:14+02:00",
+        "updated_at": "2026-07-30T01:40:14+02:00"
+    },
+    {
         "id": "article-cf33efaddf51",
         "title": "No More ModDesc Issues on Fairverse",
         "content": "Good news for everyone downloading mods from Fairverse! We've introduced a new system that automatically adjusts the modDesc.xml version when needed. This means you no longer have to figure out which descVersion your game requires or manually edit the file yourself.Simply download the mod and enjoy, Fairverse will handle the compatibility for you behind the scenes.",
