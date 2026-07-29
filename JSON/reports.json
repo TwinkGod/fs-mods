@@ -7,10 +7,12 @@
         "mod_category": "rides",
         "description": "el mod no aparece, al principio sí pero una vez dentro no está en la tienda de farming",
         "reporter_name": "Anonymous",
-        "status": "pending",
+        "status": "fixed",
         "created_at": "2026-07-29T16:27:35+02:00",
-        "updated_at": "2026-07-29T16:27:35+02:00",
-        "source": "mods_page"
+        "updated_at": "2026-07-29T21:50:16+02:00",
+        "source": "mods_page",
+        "updated_by": "Sollarax ✧.*",
+        "fixed_at": "2026-07-29T21:50:16+02:00"
     },
     {
         "id": "report-522d64d6664b",
