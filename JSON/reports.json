@@ -171,5 +171,18 @@
         "created_at": "2026-07-31T20:25:10+02:00",
         "updated_at": "2026-07-31T20:25:10+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-a61891ab157c",
+        "mod_id": "hide-kristall-mod-fb222a",
+        "mod_title": "Hide Kristall Mod",
+        "mod_version": "fo",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Hide Kristall Mod\n- Game version: FO",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-31T21:26:33+02:00",
+        "updated_at": "2026-07-31T21:26:33+02:00",
+        "source": "mods_page"
     }
 ]
