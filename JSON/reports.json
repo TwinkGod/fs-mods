@@ -145,5 +145,18 @@
         "created_at": "2026-07-31T18:40:16+02:00",
         "updated_at": "2026-07-31T18:40:16+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-32a8cd962f4c",
+        "mod_id": "ec3f5b0dc98f23a6fc20632ec3398c01",
+        "mod_title": "Rollerbob",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Rollerbob\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-31T19:58:26+02:00",
+        "updated_at": "2026-07-31T19:58:26+02:00",
+        "source": "mods_page"
     }
 ]
