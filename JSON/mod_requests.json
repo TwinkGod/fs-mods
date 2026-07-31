@@ -82,5 +82,17 @@
         "status": "pending",
         "created_at": "2026-07-31T08:03:52+02:00",
         "source": "mods_page_request_form"
+    },
+    {
+        "id": "request-80c7bb851b55",
+        "game": "fs",
+        "title": "More European Rides Eg England",
+        "details": "",
+        "image": "",
+        "requester_name": "Anonymous",
+        "requester_contact": "",
+        "status": "pending",
+        "created_at": "2026-07-31T10:43:08+02:00",
+        "source": "mods_page_request_form"
     }
 ]
