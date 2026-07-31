@@ -132,5 +132,18 @@
         "created_at": "2026-07-31T15:17:39+02:00",
         "updated_at": "2026-07-31T15:17:39+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-f1a4561f913a",
+        "mod_id": "tg-kinder-riesenrad-552370",
+        "mod_title": "TG Kinder Riesenrad",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: TG Kinder Riesenrad\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-07-31T18:40:16+02:00",
+        "updated_at": "2026-07-31T18:40:16+02:00",
+        "source": "mods_page"
     }
 ]
