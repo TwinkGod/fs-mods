@@ -405,5 +405,18 @@
         "created_at": "2026-08-03T10:15:00+02:00",
         "updated_at": "2026-08-03T10:15:00+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-ce622a95575a",
+        "mod_id": "antartica-e866a5",
+        "mod_title": "Antartica",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- The download button downloads the file, but it is corrupt and cannot be unzipped.\n- Mod: Antartica\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-03T18:13:07+02:00",
+        "updated_at": "2026-08-03T18:13:07+02:00",
+        "source": "mods_page"
     }
 ]
