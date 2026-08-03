@@ -118,5 +118,17 @@
         "status": "pending",
         "created_at": "2026-08-01T15:54:32+02:00",
         "source": "mods_page_request_form"
+    },
+    {
+        "id": "request-8a2068b9c999",
+        "game": "fs",
+        "title": "Supertrooper \/ Phoenix",
+        "details": "Used to have but was removed",
+        "image": "",
+        "requester_name": "Anonymous",
+        "requester_contact": "Funfair enthusiast",
+        "status": "pending",
+        "created_at": "2026-08-03T02:22:16+02:00",
+        "source": "mods_page_request_form"
     }
 ]
