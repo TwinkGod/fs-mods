@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "pending-0a5e376dde82",
+        "title": "FS22_dj_stange_large_V2",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "game": "fs",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_dj_stange_large_V2.zip",
+        "image": "",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-08-05T20:33:06+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2003:d7:6723:f039:882b:995a:11fb:dfad"
+    }
+]
