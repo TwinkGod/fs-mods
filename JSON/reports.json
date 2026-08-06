@@ -509,5 +509,18 @@
         "created_at": "2026-08-05T16:59:44+02:00",
         "updated_at": "2026-08-05T16:59:44+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-d826e3df848b",
+        "mod_id": "fs22-dj-stange-large-v2-6bff5d",
+        "mod_title": "DJ Stage Large V2",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: DJ Stage Large V2\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-06T08:05:06+02:00",
+        "updated_at": "2026-08-06T08:05:06+02:00",
+        "source": "mods_page"
     }
 ]
