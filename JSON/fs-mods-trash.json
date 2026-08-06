@@ -29,6 +29,39 @@
         "added_at": "2026-08-07T00:17:58+02:00",
         "updated_at": "2026-08-07T00:17:58+02:00",
         "updated_by": "Sollarax ✧.*",
+        "deleted_at": "2026-08-07T00:23:01+02:00",
+        "deleted_by": "Sollarax ✧.*"
+    },
+    {
+        "id": "mod-eadf3af4edbc",
+        "title": "Test",
+        "game": "roblox",
+        "version": "roblox",
+        "category": "others",
+        "creator": "",
+        "download": "https://github.com/TwinkGod/fs-mods/releases/download/ride-downloads/1786054650_d1a6d7c4_Place1.rbxl",
+        "build_video": "",
+        "requirements": "",
+        "description": "This is a test",
+        "images": [
+            "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/images/1786054663_vr3.jpg",
+            "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/images/1786054664_fo.jpg",
+            "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/images/1786054666_hq720.jpg",
+            "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/images/1786054667_cliffhanger-fs22-2-1.jpg"
+        ],
+        "image": "https://raw.githubusercontent.com/TwinkGod/fs-mods/main/images/1786054663_vr3.jpg",
+        "requirements_mod_ids": [],
+        "requirements_mod_id": "",
+        "status": {
+            "featured": false,
+            "broken": false,
+            "needs_update": false,
+            "hidden": false,
+            "draft": false
+        },
+        "added_at": "2026-08-07T00:17:58+02:00",
+        "updated_at": "2026-08-07T00:17:58+02:00",
+        "updated_by": "Sollarax ✧.*",
         "deleted_at": "2026-08-07T00:22:23+02:00",
         "deleted_by": "Sollarax ✧.*"
     },
