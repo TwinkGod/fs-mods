@@ -238,5 +238,17 @@
         "status": "pending",
         "created_at": "2026-08-08T09:34:23+02:00",
         "source": "mods_page_request_form"
+    },
+    {
+        "id": "request-43af7ed729d6",
+        "game": "fs",
+        "title": "FS22 Pack Scania",
+        "details": "",
+        "image": "",
+        "requester_name": "Anonymous",
+        "requester_contact": "",
+        "status": "pending",
+        "created_at": "2026-08-08T09:34:59+02:00",
+        "source": "mods_page_request_form"
     }
 ]
