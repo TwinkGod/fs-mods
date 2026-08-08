@@ -680,5 +680,18 @@
         "created_at": "2026-08-08T19:06:44+02:00",
         "updated_at": "2026-08-08T19:06:44+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-4d6ff4f66517",
+        "mod_id": "f27a2e5e4055d8dfb6dd9f3a2755fb28",
+        "mod_title": "Extazy Heroes",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "solo descarga la taquilla",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-08T23:16:48+02:00",
+        "updated_at": "2026-08-08T23:16:48+02:00",
+        "source": "mods_page"
     }
 ]
