@@ -706,5 +706,18 @@
         "created_at": "2026-08-09T10:31:32+02:00",
         "updated_at": "2026-08-09T10:31:32+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-b1ff1deaa10c",
+        "mod_id": "cliffhanger-1d7736",
+        "mod_title": "Cliffhanger",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Download link works, btu does not appear in mods in-game.  game is up to date.",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-09T19:01:38+02:00",
+        "updated_at": "2026-08-09T19:01:38+02:00",
+        "source": "mods_page"
     }
 ]
