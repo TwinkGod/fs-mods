@@ -11,5 +11,18 @@
         "created_at": "2026-08-10T14:38:14+02:00",
         "updated_at": "2026-08-10T14:38:14+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-7cb139492c0d",
+        "mod_id": "infinity-0a430a",
+        "mod_title": "Infinity",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "i can not use it afte install in the laucher",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-10T14:38:25+02:00",
+        "updated_at": "2026-08-10T14:38:25+02:00",
+        "source": "mods_page"
     }
 ]
