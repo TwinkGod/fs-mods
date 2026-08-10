@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "pending-b6501103dc41",
+        "title": "DJ",
+        "description": "",
+        "category": "others",
+        "version": "fs22",
+        "game": "fs",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS25_dj_scene.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1786375208_de79c772.png",
+        "submitter": "MATHEO",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-08-10T17:20:45+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2a01:cb10:86ff:b800:9461:22c9:f726:fcb"
+    }
+]
