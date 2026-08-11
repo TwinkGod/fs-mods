@@ -115,5 +115,18 @@
         "created_at": "2026-08-11T18:04:41+02:00",
         "updated_at": "2026-08-11T18:04:41+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-310c6a29cf0c",
+        "mod_id": "phoenix-063df8",
+        "mod_title": "Phoenix",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Phoenix\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-11T19:47:53+02:00",
+        "updated_at": "2026-08-11T19:47:53+02:00",
+        "source": "mods_page"
     }
 ]
