@@ -50,5 +50,18 @@
         "created_at": "2026-08-10T19:47:29+02:00",
         "updated_at": "2026-08-10T19:47:29+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-7658feff78d8",
+        "mod_id": "mod-c86d86b751c2",
+        "mod_title": "FS ModDesc + Store changer",
+        "mod_version": "tools",
+        "mod_category": "tools",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: FS ModDesc + Store changer\n- Game version: TOOLS",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-11T11:27:26+02:00",
+        "updated_at": "2026-08-11T11:27:26+02:00",
+        "source": "mods_page"
     }
 ]
