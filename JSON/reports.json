@@ -128,5 +128,18 @@
         "created_at": "2026-08-11T19:47:53+02:00",
         "updated_at": "2026-08-11T19:47:53+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-dc65d4d7e8a3",
+        "mod_id": "wild-wasser-1c329e",
+        "mod_title": "Wild Wasser",
+        "mod_version": "fs22",
+        "mod_category": "rides",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Wild Wasser\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-11T19:48:01+02:00",
+        "updated_at": "2026-08-11T19:48:01+02:00",
+        "source": "mods_page"
     }
 ]
