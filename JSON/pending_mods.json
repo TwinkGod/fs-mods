@@ -15,5 +15,22 @@
         "created_at": "2026-08-10T17:20:45+02:00",
         "source": "community_upload_form",
         "submitted_ip": "2a01:cb10:86ff:b800:9461:22c9:f726:fcb"
+    },
+    {
+        "id": "pending-04f7a6cc9dab",
+        "title": "Abeille",
+        "description": "",
+        "category": "rides",
+        "version": "fs22",
+        "game": "fs",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/FS22_Abeille.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1786443322_50443490.png",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-08-11T12:17:57+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "2003:c6:3719:e66b:ac98:f91c:96a0:ae9"
     }
 ]
