@@ -180,5 +180,18 @@
         "created_at": "2026-08-12T11:25:56+02:00",
         "updated_at": "2026-08-12T11:25:56+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-ccbc03d79edb",
+        "mod_id": "ladder-53b4c0",
+        "mod_title": "Ladder",
+        "mod_version": "fs22",
+        "mod_category": "others",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Ladder\n- Game version: FS22",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-12T19:38:17+02:00",
+        "updated_at": "2026-08-12T19:38:17+02:00",
+        "source": "mods_page"
     }
 ]
