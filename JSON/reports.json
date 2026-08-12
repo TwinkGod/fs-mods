@@ -206,5 +206,18 @@
         "created_at": "2026-08-12T21:49:41+02:00",
         "updated_at": "2026-08-12T21:49:41+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-6d6eab279317",
+        "mod_id": "basketball-066352",
+        "mod_title": "Basketball",
+        "mod_version": "fs22",
+        "mod_category": "stalls",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Basketball\n- Game version: FS22\n\nBitte entfernen! Liebe Grüße, LS Kirmes World",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-12T21:59:08+02:00",
+        "updated_at": "2026-08-12T21:59:08+02:00",
+        "source": "mods_page"
     }
 ]
