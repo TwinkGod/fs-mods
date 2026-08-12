@@ -232,5 +232,18 @@
         "created_at": "2026-08-12T21:59:53+02:00",
         "updated_at": "2026-08-12T21:59:53+02:00",
         "source": "mods_page"
+    },
+    {
+        "id": "report-f32fc379e22c",
+        "mod_id": "hardness-wurfbude-c25fd4",
+        "mod_title": "Hardness Wurfbude",
+        "mod_version": "fs22",
+        "mod_category": "stalls",
+        "description": "Broken link report:\n- Download button leads to an invalid or unavailable file\n- Mod: Hardness Wurfbude\n- Game version: FS22\n\nBitte Entfernen! Liebe Grüße, LS Kirmes World",
+        "reporter_name": "Anonymous",
+        "status": "pending",
+        "created_at": "2026-08-12T22:00:50+02:00",
+        "updated_at": "2026-08-12T22:00:50+02:00",
+        "source": "mods_page"
     }
 ]
