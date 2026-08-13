@@ -346,5 +346,17 @@
         "status": "pending",
         "created_at": "2026-08-12T01:25:41+02:00",
         "source": "mods_page_request_form"
+    },
+    {
+        "id": "request-c681af0851e7",
+        "game": "fs",
+        "title": "Fun Factory",
+        "details": "https:\/\/www.youtube.com\/watch?v=E3cEBqiNIdI\n\nWould it be possible to create this attraction?\nOr has it already been made?",
+        "image": "https:\/\/www.youtube.com\/watch?v=E3cEBqiNIdI",
+        "requester_name": "Patrick",
+        "requester_contact": "petje88",
+        "status": "pending",
+        "created_at": "2026-08-13T20:54:00+02:00",
+        "source": "mods_page_request_form"
     }
 ]
