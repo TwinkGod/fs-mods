@@ -49,5 +49,22 @@
         "created_at": "2026-08-12T12:55:25+02:00",
         "source": "community_upload_form",
         "submitted_ip": "109.169.84.7"
+    },
+    {
+        "id": "pending-88ab646f6cdd",
+        "title": "Jungle Trampoline",
+        "description": "",
+        "category": "stalls",
+        "version": "fs22",
+        "game": "fs",
+        "download": "https:\/\/github.com\/TwinkGod\/fs-mods\/releases\/download\/ride-downloads\/Jungle_Trampoline.zip",
+        "image": "https:\/\/raw.githubusercontent.com\/TwinkGod\/fs-mods\/main\/images\/community\/1786650528_0361e930.png",
+        "submitter": "Anonymous",
+        "contact": "",
+        "community": true,
+        "status": "pending",
+        "created_at": "2026-08-13T21:49:31+02:00",
+        "source": "community_upload_form",
+        "submitted_ip": "46.114.225.163"
     }
 ]
